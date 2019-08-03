@@ -8,6 +8,7 @@ import java.util.Random;
 
 public class GetQuoteInteractorImpl implements GetQuoteInteractor
 {
+    //11
     private List<String> arrayList = Arrays.asList
             (
                     "Be yourself. everyone else is already taken.",
